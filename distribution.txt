@@ -1,0 +1,413 @@
+____________________________________________________________
+
+  P E R I O D I C    T A B L E    D I S T R I B U T I O N
+			Also made by JerosGamer89
+____________________________________________________________
+
+
+This shows on which categories are the programs organized in the
+final periodic table design and layout. I discarded the classification
+using my own tags (docs,editing,video&audio,fonts,etc), so I used
+the ones Adobe uses to categorize their own programs. The most
+Adobe thing to ever be seen lol.
+
+
+>> BY SUITES
+
+- Adobe CC Express (formerly Spark products family)
+	[ Adobe Spark Post
+	{ Adobe Spark Video (former Voice)
+	[ Adobe Spark Page
+	INFO TO ADD: Soon, this products family became a united
+			  mobile app, now branded as Adobe CC Express
+
+- Programming Languages
+	ActionScript
+	ColdFusion Markup Language
+	Lingo (for Director)
+	PostScript
+
+- Adobe Touch Apps & Mobile
+	[ Authenticator (now Account Control)
+	[ Adobe Kuler CC (later Color)
+	[ Adobe Preview CC
+	[ Adobe Comp CC
+	[ Adobe Illustrator Draw
+	[ Adobe Illustrator Line
+	[ Adobe Scan
+	[ Adobe Shape CC
+
+	{ Adobe Content Viewer
+	{ Adobe OffSite
+	{ Adobe Ideas (later Illustrator Draw)
+	{ Adobe Proto
+	{ Adobe Debut
+	{ Adobe Collage
+
+	[ = New but failed Adobe mobile products.
+	{ = Failed Adobe Touch apps family, trying to give the best
+		use to Android tablets with these apps.
+
+- Adobe Print Publishing & Production family
+	Adobe Acrobat DC
+	Adobe InDesign CC
+	Adobe InCopy CC
+	Adobe PageMaker
+	Adobe FrameMaker
+	Adobe PostSript
+
+	Central Output Server
+	Output Designer
+	Circulate
+	Content Server
+	Extreme
+	HomePublisher
+	PDF JobReady
+	PressReady
+	PressWise
+
+- Web Technologies/RIA/Flash
+	Adobe Brackets (now a community-driven project)
+	Adobe Dreamweaver
+	Adobe PageMill
+	Adobe Flash & related programs
+	  (Builder, Cast, Catalyst, Comm Server (later Media Server),
+	  FlashPaper, Player)
+	Adobe Shockwave
+	Adobe AIR
+	Adobe Flex
+	Adobe Fireworks
+	Adobe Authorware
+	Adobe ColdFusion
+	Adobe Director
+	Adobe RoboHelp/Rh Server
+	Homesite
+	Adobe Media Player
+	Adobe Prelude
+
+- Web server products
+	Adobe BrowserLab
+	Adobe ColdFusion
+	Adobe Connect (formerly Breeze)
+	Adobe Contribute
+	Adobe Flash Media Server
+	Adobe Flex
+	Adobe Graphics Server
+	Adobe jRun
+	Adobe LiveCycle (includes LiveCycle, Form Manager)
+	Adobe Scene7
+
+- Adobe Substance
+	Adobe Substance 3D Stager
+	Adobe Substance 3D Painter
+	Adobe Substance 3D Sampler
+	Adobe Substance 3D Designer
+	Adobe Substance 3D Assets
+	Adobe Substance 3D Modeler
+
+- Adobe Experience Cloud/Adobe Business
+	Adobe Experience Manager
+	Adobe Campaign
+	Adobe Target
+	Adobe (Marketo) Engage
+	Adobe Commerce
+	Adobe Analytics
+	Adobe Advertising
+	Adobe Workfront
+	Adobe Sign
+	Adobe Primetime
+	Marketo Commerce Cloud
+
+- Type/Font products
+	Adobe Font Folio
+	Adobe Fonts
+	CoolType
+	TypeAlign
+	Type on call
+	TypeTwister
+
+- Photoshop family
+	Photoshop products + ...
+	DNG Converter + DNG technology
+	Elements Organizer
+	Lightroom
+	ImageReady
+
+- Acrobat family
+	TILE DONE:
+	Acrobat Distiller
+	Acrobat Pro
+	Acrobat Reader
+	Acrobat Sign
+
+	TILE NOT DONE:
+	Acrobat Standard
+	Acrobat Document Cloud
+	Acrobat Fill & Sign
+	Acrobat Scan
+	- discontinued below -
+	Acrobat Approval
+	Acrobat Business Tools
+	Acrobat Capture
+	Acrobat eBook Reader
+	Acrobat Elements
+	Acrobat InProduction
+	Acrobat Messenger
+	Acrobat Reader Touch
+	Acrobat FormsCentral
+	Acrobat Send & Track
+
+- Technical Communication Suite & eLearning
+	Adobe Authorware
+	Adobe Captivate
+	Adobe Connect
+	Adobe FrameMaker
+	Adobe Presenter
+	Adobe RoboHelp
+	Adobe Visual Communicator
+
+- Unclassified video, photography & audio
+	Oculus Medium
+	Adobe LiveMotion
+	Adobe Speedgrade
+	Adobe Streamline
+	Adobe SuperPaint
+	Adobe OnLocation
+	Adobe Ovation
+	Adobe Persuasion
+	Adobe PhotoDeluxe
+	Adobe TV
+	Adobe Vlog it!
+	Adobe VoCo
+
+	ActiveShare
+	Art Explorer
+	Atmosphere
+	Freehand
+	Magazine
+
+- Adobe CS
+	Adobe Acrobat
+	Adobe After Effects
+	Adobe Audition
+	Adobe Bridge
+	Adobe Contribute
+	Adobe Device Central
+	Adobe Dreamweaver
+	Adobe Dynamic Link
+	Adobe Encore DVD
+	Adobe Fireworks
+	Adobe Flash Proffessional (later Animate CC)
+	Adobe GoLive
+	Adobe Illustrator
+	Adobe InDesign
+	Adobe InScope (bundled with Id)
+	Adobe OnLocation
+	Adobe Photoshop
+	Adobe Soundbooth
+	Adobe Premiere Pro
+	Adobe Version Cue
+
+- Adobe CC
+	Adobe Aero
+	Adobe After Effects
+	Adobe Animate (former Flash Proffessional)
+	Adobe Audition
+	Adobe Behance
+	Adobe Bridge
+	Adobe Character Animator
+	Adobe Color (formerly Kuler CC)
+	Adobe Dimension
+	Adobe Dreamweaver
+	Adobe Dynamic Link
+	Adobe Edge suite + PhoneGap
+	Adobe Frame.io
+	Adobe Fresco
+	Adobe Fuse
+	Adobe Ideas
+	Adobe Illustrator
+	Adobe Lightroom
+	Adobe Lr Classic
+	Adobe Media Encoder
+	Adobe Muse
+	Adobe Photoshop family + Adobe Preview CC
+	Adobe Portfolio
+	Adobe Premiere family
+	Adobe Scout
+	Adobe Stock
+	Adobe Story
+	Adobe Ultra
+	Adobe XD
+
+- Others
+	Adobe Drive
+	Adobe Digital Editions (formerly eBook Reader)
+	Exchange
+	File Utilities
+	MAX
+	Revel
+	Sensei
+	Source Libraries
+	SVG Viewer
+
+- Unknowns
+	Adobe Creative Mark
+	Adobe Motif Ad Kit
+	Adobe OffSite
+
+
+
+
+>> BY OWN TAGS (OUTDATED & DEPRECATED)
+
+- Documents (includes Editing)
+	Acrobat Pro
+	Acrobat Sign
+	Acrobat Reader
+	Acrobat Distiller
+	Central Output Server
+	Circulate
+	eBook Reader/Digital Editions
+	Extreme
+	FrameMaker
+	Freehand
+	HomePublisher
+	Magazine
+	Output Designer
+	PressWise
+	RoboHelp
+	Scan
+	Scene7
+	Sign
+	Story
+- Programming (includes AI, Runtime, Enviroment, Java)
+	AIR
+	Brackets
+	ColdFusion
+	Edge Product Family
+	jRun
+	Muse
+	PageMaker
+	PhoneGap
+	Sensei
+	Source Libraries
+- Webserver/website
+	Atmosphere
+	BrowserLab
+	Contribute
+	Dreamweaver
+	GoLive
+	Homesite
+	InCopy
+	InDesign
+	LiveCycle
+	Portfolio
+- Video & Audio (includes 3D-render and AR/VR)
+	Aero
+	After Effects
+	Audition
+	Character Animator
+	Dimension
+	Encore DVD
+	Fuse
+	Media Encoder
+	Ovation
+	Premiere Pro
+	Premiere Elements
+	Premiere Rush
+	Soundbooth
+	Substance
+	TV
+	Ultra
+	VoCo
+- Photography
+	ActiveShare
+	Art Explorer
+	DNG Converter
+	Lightroom
+	Lightroom Classic
+	Photoshop
+	Photoshop Elements
+	Photoshop LE
+	Photoshop Fix
+	Photoshop Express
+	Photoshop Mix
+	Photoshop Sketch
+	Stock
+- Business oriented products & Marketing
+	Analytics (now Adobe Experience Cloud)
+	Campaign (now Adobe Experience Cloud)
+	Exchange
+	Form Manager
+	PrimeTime
+	Target
+- Flash-related/Interactive Media
+	Director
+	Flash Proffesional (now Animate)
+	Flash Builder
+	Flash Cast
+	Flash Media Server
+	FlashPaper
+	Flash Player
+	Flex
+	LiveMotion (Adobe's competence to Macromedia Flash)
+	Scout
+	Shockwave
+- Artistic Creation (includes Design, SVG, Creative, Fonts)
+	Behance
+	Capture
+	Comp
+	CoolType
+	Fireworks
+	Fonts
+	Font Folio
+	Fresco
+	Illustrator
+	Illustrator Draw
+	Kuler (now Color CC)
+	Spark
+	Speedgrade
+	Streamline
+	SuperPaint
+	SVG Viewer
+	TypeAlign
+	Xd
+- File Management
+	Bridge
+	Drive
+	Elements Organizer
+	Photoshop Album
+	Prelude
+	Revel/Carousel
+	Version Cue
+- Extensions
+	ImageReady
+	InScope
+	OnLocation
+	Presenter
+	Preview
+- Suite
+	Adobe Creative Cloud
+	Adobe Creative Suite
+	File Utilities
+- Languages
+	ActionScript
+	Authorware
+	PostScript
+	CFML (ColdFusion Markup Language)
+- Others
+	Adobe Systems Incorporated (as company)
+	Authenticator (now Adobe Account Control)
+	Captivate & Captivate Prime
+	Connect
+	MAX
+	Persuasion
+
+______________________
+
+      END NOTES
+______________________
+
+Base on this website
+(https://web.archive.org/web/20150106060349/https://www.adobe.com/creativecloud/catalog/desktop.html)
+to understand and organize better all Adobe products, specially by clicking in the "Menu" top navigation bar button.

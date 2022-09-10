@@ -1,0 +1,219 @@
+
+
+  $$$$$$\        $$\           $$\                       $$$$$$\                          
+ $$  __$$\       $$ |          $$ |                      \_$$  _|                        
+ $$ /  $$ | $$$$$$$ | $$$$$$\  $$$$$$$\   $$$$$$\          $$ |  $$$$$$$\   $$$$$$$\     
+ $$$$$$$$ |$$  __$$ |$$  __$$\ $$  __$$\ $$  __$$\         $$ |  $$  __$$\ $$  _____|    
+ $$  __$$ |$$ /  $$ |$$ /  $$ |$$ |  $$ |$$$$$$$$ |        $$ |  $$ |  $$ |$$ /          
+ $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |  $$ |$$   ____|        $$ |  $$ |  $$ |$$ |          
+ $$ |  $$ |\$$$$$$$ |\$$$$$$  |$$$$$$$  |\$$$$$$$\       $$$$$$\ $$ |  $$ |\$$$$$$$\ $$\ 
+ \__|  \__| \_______| \______/ \_______/  \_______|      \______|\__|  \__| \_______|\__|
+                                                                                        
+                    	ALL ADOBE SOFTWARE LIST FOR THE PERIODIC TABLE
+				     	 JerosGamer89
+
+                             	  Last updated: 14th July 2022
+
+			   There may still be some programs missing.
+			For the complete version including all programs,
+			  languages and companies, check out the whole
+					  periodic table.
+
+
+			If you are reading this in the Windows 11
+			  notepad, zoom out to 60% for a correct
+			visualization, only if the font size's set
+			  in 14 pixels. If you are on Windows 10,
+				     don't worry lol.
+
+---------------------------------------------------------------------------------------
+    PROGRAM NAME		CATEGORY/PURPOSE		PLATFORM
+---------------------------------------------------------------------------------------
+- Adobe Acrobat Pro		editing, docs			all
+- Adobe Acrobat Sign		editing, docs			win, mac
+	(now part of Acrobat)
+- Adobe Acrobat Reader		editing, docs			all
+- Adobe Acrobat Distiller	editing, docs			win, mac, lnx
+- Adobe ActiveShare		photography, files		~notav~
+- Adobe Art Explorer		photography, creative		~notav~
+- Adobe	Inc.			company				-
+- Adobe Aero			vr, ar				win, mac, mobile
+- Adobe After Effects		video & audio			win
+- Adobe AIR			runtime, enviroments		-
+- Adobe Analytics		business, marketing		~notav~
+- Adobe Animate		video & audio			win, mac
+- Adobe Atmosphere		3d render, webserver		win
+- Adobe Audition		video & audio			win
+- Adobe Authenticator		2FA, security			mobile
+- Adobe Behance		creative, share		web
+- Adobe Brackets		editing, programming		win, mac, lnx
+- Adobe Bridge			files, video & audio		win
+- Adobe BrowserLab		webserver, programming		win
+- Adobe Campaign		business, marketing		-
+- Adobe Captivate		video & audio			win, mac
+- Adobe Captivate Prime	video & audio, business	mobile
+- Adobe Capture		design, video & audio		mobile
+- Adobe Central Output Server	docs				~notav~
+- Adobe Circulate		docs				~notav~
+- Adobe Character Animator	video & audio			win, mac
+- Adobe Coldfusion		webserver, programming		win, mac, lnx
+- Adobe Comp			design, creative		mobile
+- Adobe Connect/Breeze		PPT extension, video&audio	-
+- Adobe Content Server		docs, ebook			all (cross)
+- Adobe Contribute		webserver, editing/programmingwin
+- Adobe CoolType		fonts				win
+- Adobe Creative Cloud		app suite			-
+- Adobe Creative Suite		app suite			-
+- Adobe Dimension		video & audio, 3d render	win, mac
+- Adobe Director		video & audio, engine		win, mac
+- Adobe DNG Converter		photography, video & audio	win, mac
+- Adobe Dreamweaver		webserver, programming		win
+- Adobe Drive			cloud storage			all
+- Adobe eBook Reader/		docs, ebook			win, mac, mobile
+	Digital Editions
+- Adobe Edge products family	web, programming		win, mac
+- Adobe Elements Organizer	files, video & audio		win, mac
+- Adobe Encore DVD		video & audio			win
+- Adobe Exchange		business, webserver		~notav~
+- Adobe Extreme		docs, business			win
+- Adobe File Utilities		DOS suite			ms-dos, mac, unix
+- Adobe Fireworks		creative, svg			win
+- Adobe Flash Builder		flash-related, video & audio	win
+- Adobe Flash Cast		flash-related			mobile
+- Adobe Flash Catalyst		flash-related, webserver	win, mac
+- Adobe Flash Communication	flash-related, webserver	win, lnx
+  Server (later Media Server)
+- Adobe Flash Media Server	flash-related			win
+- Adobe FlashPaper		docs				win, mac
+- Adobe Flash Player		flash-related, video & audio	all
+- Adobe Flex			flash-related			win, mac
+- Adobe Fonts			design, creative, fonts	~website~
+- Adobe Font Folio		design, creative, fonts	win, mac
+- Adobe Form Manager		docs, business			win, mac
+- Adobe FrameMaker		docs, editing			win, mac
+- Adobe Frame.io (acquisition)video & audio, business	win, mac, mobile
+- Adobe Freehand		creative, svg			win, mac
+- Adobe Fresco			creative, painting		win, mobile
+- Adobe Fuse			creative, 3d render		win, mac
+- Adobe GoLive			webserver, programming		win, mac
+- Adobe Homesite		webserver, programming		win, mac
+- Adobe HomePublisher		docs, editing			win
+- Adobe Illustrator		design, creative		win, mac
+- Adobe Illustrator Draw	design, creative		mobile
+- Adobe ImageReady		video & audio, PS ext.		-
+- Adobe InCopy			editing, docs			win, mac
+- Adobe InDesign		design, docs			win, mac
+- Adobe InScope		InDesign complement, docs	win, mac
+- Adobe jRun			java, runtime			win, mac, lnx
+- Adobe Kuler (now Color CC)	design, creative		website
+- Adobe Lightroom		creative, photography		win, mac
+- Adobe Lightroom Classic	creative, photography		win, mac
+- Adobe LiveCycle		website, docs			~notav~
+- Adobe LiveMotion		vid & aud, flash-competence	win, mac
+- Adobe MAX			conference			-
+- Adobe Magazine		magazine, docs			~notav~
+- Adobe Media Encoder		video & audio			win
+- Adobe Magento		e-commerce, business		all (cross)
+- Medium by Adobe		VR, 3D render, video & audio	win
+  (formerly Oculus Medium)
+- Adobe Muse			webserver, programming		win
+- Adobe OnLocation		files, Premiere complement	win
+- Adobe Output Designer	docs, editing			win, mac
+- Adobe Ovation		video & audio			win
+- Adobe PageMaker		webserver, programming		win
+- Adobe Persuasion		presentation			win, mac
+- Adobe PhoneGap		webserver, framework		~notav~
+- Adobe Photoshop		photography, creative		win
+- Adobe Photoshop Album	files, photography		win
+- Adobe Photoshop Elements	photography, creative		win
+- Adobe Photoshop LE		photography, creative		win
+	(Limited Edition)
+- Adobe Photoshop Fix		photography, creative		mobile
+- Adobe Photoshop Express	photography, creative		mobile
+- Adobe Photoshop Mix		photography, creative		mobile
+- Adobe Photoshop Sketch	photography, creative		mobile
+- Adobe Portfolio		website, design		win, mac
+- Adobe Prelude		files, video & audio		win
+- Adobe Premiere Pro		video & audio			win
+- Adobe Premiere Elements	video & audio			win
+  (sucessor of PhotoDeluxe)
+- Adobe Premiere Rush		video & audio			mobile
+- Adobe Presenter		video & audio, PPT ext.	-
+- Adobe PressWise		docs				win, mac
+- Adobe Preview		video & audio, PS complement	mobile
+- Adobe Primetime		ads, business, marketing	~notav~
+- Adobe Carousel/Revel		photography, files		win, mac, mobile
+- Adobe RoboHelp		docs, e-help			win
+- Adobe Scan			docs, editing			mobile
+- Adobe Scout			flash-related, design		win, mac, mobile
+- Adobe Scene7 (S7)		business, files, docs		~notav~
+- Adobe Sensei			ai				~notav~
+- Adobe Shockwave		interactive media		website
+- Adobe Sign			docs, editing			mobile
+- Adobe Soundbooth		video & audio			win
+- Adobe Source Libraries	programming			-
+- Adobe Spark			design, creative		win, mac, mobile
+- Adobe Speedgrade		design, creative		win
+- Adobe Streamline		design, svg, docs		win
+- Adobe Stock			photography, business		website
+- Adobe Story			editing, docs			win, mac
+- Adobe Substance		3d render, ar, creative		~notav~
+- Adobe SuperPaint		creative			win, mac
+- Adobe SVG Viewer		svg				win
+- Adobe Target			marketing, business		~notav~
+- Adobe Type Align		fonts, design, creative	win
+- Adobe Type Twister		fonts, design, creative	win
+- Adobe TV			video & audio			win, mac, mobile
+- Adobe Ultra			video & audio			win
+- Adobe Version Cue		files				win
+- Adobe Visual Communicator	video & audio, docs, editing	win
+- Adobe VoCo			video & audio			~prototype~
+- Adobe Xd			design, creative		win, mac, mobile
+
+______________________
+
+  LATER ADDED (DONE)
+______________________
+Based on: https://web.archive.org/web/20150106060405/https://www.adobe.com/creativecloud/catalog/mobile.html
+
+- Adobe Brush CC
+- Adobe Shape CC
+- Adobe Illustrator Line
+- Adobe Voice
+- Adobe Premiere Clip
+
+______________________
+
+      ALL SUITES
+______________________
+
+- Adobe Spark (now CC Express)
+- Adobe Substance
+- Adobe Experience/Marketing Cloud
+- Adobe Creative Cloud
+- Adobe Creative Suite
+- Adobe File Utilities
+- Adobe Flash
+- Adobe LiveCycle
+- Adobe ColdFusion
+- Adobe Director related
+- Adobe Acrobat
+- Adobe Edge
+
+______________________
+
+      LANGUAGES
+______________________
+
+- ActionScript (used for Adobe Flash)
+- Authorware
+- PostScript
+- CFML (ColdFusion Markup Language)(specific for ColdFusion)
+- Lingo (specific for Director)
+
+______________________
+
+ COMPANY ADQUISITIONS
+______________________
+
+Yet to be written.
